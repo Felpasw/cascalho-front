@@ -1,24 +1,32 @@
-# Projeto de Treinamento em Vue - Softwaresul 💻
-Este projeto foi desenvolvido como parte de um treinamento em Vue na empresa Softwaresul. O principal objetivo foi proporcionar aos desenvolvedores uma experiência prática e hands-on no framework Vue.js.
+# Projeto de Treinamento Cascalho - Softwaresul 💻
+Bem-vindo ao Cascalho, a sua plataforma interna de networking e colaboração! 🌐✨
 
 # Visão Geral 🎈
-O projeto utiliza a API reservada com login e controle por meio de cookies no navegador, o usuário com permissões no sistema consegue adicionar, deletar e editar outros usuários no sistema. Todo o código foi desenvolvido puramente em Vue.js, demonstrando o poder e a flexibilidade deste framework para a construção de interfaces de usuário modernas.
+O projeto utiliza a uma própria API que está documentada <a href="https://github.com/Felpasw/cascalho-API"> aqui </a >. Com login e controle por meio de cookies no navegador, o usuário com permissões no sistema logado como administrador consegue adicionar, deletar e editar várias entidades sendo elas: grupos, usuários, categorias, publicações, pastas, documentos e comentários. Todo o código foi desenvolvido puramente em Vue 2, com o UI framework <a href="https://vuesax.com/docs/guide/"> Vuesax </a>.
  
 # Recursos Principais ⚙
-- Treinamento em Vue: O projeto serve como uma plataforma prática para o treinamento em Vue, abrangendo conceitos fundamentais e avançados do framework.
-
-- Integração: A aplicação consome uma API reservada, com login e CRUD de usuários.
-
-- Desenvolvimento Puramente em Vue: Todo o código-fonte do projeto é desenvolvido utilizando exclusivamente os frameworks Vue.js e Vuesax, destacando as capacidades destes frameworks para a construção de aplicações front-end eficientes e elegantes.
+## Publicações
+Crie Publicações: Compartilhe notícias, ideias e atualizações com a comunidade.
+Comentários: Interaja com colegas através de comentários, promovendo a colaboração.
+## Categorias
+Organização Personalizada: Adicione categorias às suas publicações para uma organização eficiente.
+Exploração Simplificada: Navegue facilmente por tópicos específicos de interesse.
+## Gerenciamento de Arquivos
+Documentos Pessoais: Faça o upload, edite e gerencie seus próprios documentos.
+Versionamento: Salve as versões anteriores de seus arquivos.
+## Hierarquias de Acesso
+Controle de Privacidade: Estabeleça níveis de acesso para garantir a segurança das informações.
+Gerenciamento de Usuários: Administre as hierarquias de acesso para uma experiência personalizada.
 
 # Como Executar o Projeto 📥
+
 ### Clone este repositório para a sua máquina local.
 ```bash
-git clone https://github.com/felpaswo/crud-login-user.git
+git clone https://github.com/felpaswo/cascalho-front.git
 ```
 ### Navegue até o diretório do projeto.
 ```bash
-cd crud-login-user
+cd cascalho-front
 ```
 ### Instale as dependências.
 ```bash
