@@ -2,7 +2,7 @@
 Bem-vindo ao Cascalho, a sua plataforma interna de networking e colaboração! 🌐✨
 
 # Visão Geral 🎈
-O projeto utiliza a uma própria API que está documentada <a href="https://github.com/Felpasw/cascalho-API"> aqui </a >. Com login e controle por meio de cookies no navegador, o usuário com permissões no sistema logado como administrador consegue adicionar, deletar e editar várias entidades sendo elas: grupos, usuários, categorias, publicações, pastas, documentos e comentários. Todo o código foi desenvolvido puramente em Vue 2, com o UI framework <a href="https://vuesax.com/docs/guide/"> Vuesax </a>.
+O projeto utiliza a uma própria API que está documentada <a href="https://github.com/Felpasw/cascalho-API"> aqui </a >. Com login e controle por meio de cookies no navegador, o usuário com permissões no sistema logado como administrador consegue adicionar, deletar e editar várias entidades sendo elas: grupos, usuários, categorias, publicações, pastas, documentos e comentários. Além de conseguir versionar seus próprios arquivos. Todo o código foi desenvolvido puramente em Vue 2, com o UI framework <a href="https://vuesax.com/docs/guide/"> Vuesax </a>.
  
 # Recursos Principais ⚙
 ## Publicações
